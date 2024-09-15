@@ -1,0 +1,50 @@
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\WindowsFormsApp3 — копия\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\WindowsFormsApp3 — копия\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\WindowsFormsApp3 — копия\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\Balistika.csprojAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MoveGraph.resources
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\Balistika.csproj.GenerateResource.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\Balistika.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика\WindowsFormsApp3\obj\Debug\Balistika.csprojAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MoveGraph.resources
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика\WindowsFormsApp3\obj\Debug\Balistika.csproj.GenerateResource.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика\WindowsFormsApp3\obj\Debug\Balistika.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика законченная без плюшек\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика законченная без плюшек\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика законченная без плюшек\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Balistika.csprojAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MoveGraph.resources
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Balistika.csproj.GenerateResource.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Balistika.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Антон\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Balistika.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MoveGraph.resources
+C:\Users\Антон\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Balistika.csproj.GenerateResource.cache
+C:\Users\Антон\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Balistika.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\bin\Debug\Ballistika.exe.config
+C:\Users\Антон\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\bin\Debug\Ballistika.exe
+C:\Users\Антон\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\bin\Debug\Ballistika.pdb
+C:\Users\Антон\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Ballistika.Properties.Resources.resources
+C:\Users\Антон\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Ballistika.exe
+C:\Users\Антон\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Ballistika.pdb
+C:\Users\Антон\Программирование\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\bin\Debug\Ballistika.exe.config
+C:\Users\Антон\Программирование\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\bin\Debug\Ballistika.exe
+C:\Users\Антон\Программирование\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\bin\Debug\Ballistika.pdb
+C:\Users\Антон\Программирование\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Balistika.csproj.AssemblyReference.cache
+C:\Users\Антон\Программирование\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MoveGraph.resources
+C:\Users\Антон\Программирование\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Ballistika.Properties.Resources.resources
+C:\Users\Антон\Программирование\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Balistika.csproj.GenerateResource.cache
+C:\Users\Антон\Программирование\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Balistika.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Программирование\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Ballistika.exe
+C:\Users\Антон\Программирование\source\repos\Projects Archive\Ballista Project\Балистика законченная без плюшек\WindowsFormsApp3\obj\Debug\Ballistika.pdb

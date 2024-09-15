@@ -1,0 +1,10 @@
+C:\Users\Антон\Desktop\WindowsFormsApp3 — копия\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Антон\Desktop\WindowsFormsApp3 — копия\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Антон\Desktop\WindowsFormsApp3 — копия\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Антон\Desktop\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\MoveGraph.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MoveGraph.resources
+C:\Users\Антон\Desktop\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Антон\Desktop\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\MoveGraph.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\MoveGraph.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Антон\Desktop\WindowsFormsApp3 — копия\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
